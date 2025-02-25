@@ -1,1 +1,2 @@
-# Sessa-Empirical-Estimator
+# Sessa Empirical Estimator
+by Lobitaña and Loquellano
